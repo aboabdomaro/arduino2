@@ -1,4 +1,4 @@
-int Lower_Sensor = 2;
+int Lower_Sensor = 9;
 int Upper_Sensor = 3;
 int Red_Led = 13;
 int Green_Led = 12;
